@@ -23,19 +23,6 @@ I am *Amna Ali*, an undergraduate student at *Habib University*. Currently, I am
    <img src="https://profile-counter.glitch.me/TheAmna/count.svg" align="center"/> 
  </p></div> -->
 
-# Github Statistics
-
- <p align="left ">
-  <a href="https://github.com/TheAmna">
-    <img src="https://github-stats-alpha.vercel.app/api?username=TheAmna&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
-  </a>
- </p>
-
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAmna&theme=github_dark)  -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheAmna&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheAmna&theme=github_dark)
 
 
 
@@ -43,8 +30,8 @@ I am *Amna Ali*, an undergraduate student at *Habib University*. Currently, I am
 
 ## Connect With Me:
 
-Gmail : amna.ali.23546@gmail.com
-Outlook : aa09863@st.habib.edu.pk
+- Gmail : amna.ali.23546@gmail.com
+- Outlook : aa09863@st.habib.edu.pk
 
 
 ## Languages and Tools
