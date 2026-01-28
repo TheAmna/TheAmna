@@ -6,7 +6,7 @@ I am *Amna Ali*, an undergraduate student at *Habib University*. Currently, I am
 
 
 
-# Courses Taken :
+<!-- # Courses Taken :
 
 - Algorithmic Problem Solving
 - Data Structures and Algorithm
@@ -34,7 +34,7 @@ I am *Amna Ali*, an undergraduate student at *Habib University*. Currently, I am
 - Outlook : aa09863@st.habib.edu.pk
 
 
-## Languages and Tools
+<!--## Languages and Tools
 
 - Latex
 - Python
