@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6N2U2ZzBhNjNoaDlwM2c5ZW5mNHVwcXNxbWsyNm5ieTdvZXg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280">
 
-I am *Amna Ali*, an undergraduate student at *Habib University*. Currently, I am in the process of learning and exploring different domains of Computer Science and Engineering by undertaking multiple projects.  Moreover, I love doing calligraphy and writing. Furthermore,  I enjoy painting nature and abstracts using differetn art mediums as a hobby. 
+I am *Amna Ali*, an undergraduate student at *Habib University*. Currently, I am in the process of learning and exploring different domains of Computer Science and Engineering by undertaking multiple projects.  Moreover, I have deep interest in both modern and arabic calligraphy. Furthermore,  I enjoy painting nature and abstracts using different art mediums as a side interest. 
 
 
 
