@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6N2U2ZzBhNjNoaDlwM2c5ZW5mNHVwcXNxbWsyNm5ieTdvZXg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 
-I am learning and exploring different domains of Computer Science and Engineering by taking multiple projects.  Moreover, I have deep interest in calligraphy. Furthermore,  I enjoy painting nature and abstracts using different art mediums. 
+I am on the journney of learning and exploring the field of Computer Science and Engineering by taking multiple projects.  Moreover, I have deep interest in calligraphy and aesthetic writing. Furthermore, I enjoy painting nature and abstracts using different art mediums. 
 
 
 
