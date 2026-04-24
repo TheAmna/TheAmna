@@ -1,6 +1,6 @@
 # Hello All !
 
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6N2U2ZzBhNjNoaDlwM2c5ZW5mNHVwcXNxbWsyNm5ieTdvZXg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="130">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF6N2U2ZzBhNjNoaDlwM2c5ZW5mNHVwcXNxbWsyNm5ieTdvZXg1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="110">
 
 I am on the journey of exploring the field of Computer Science and Engineering by taking multiple projects. 
 Moreover, I enjoy creative pursuits like calligraphy, painting, or something as simple as going out for a walk in nature. 
