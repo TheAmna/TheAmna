@@ -29,7 +29,7 @@ Moreover, I enjoy creative pursuits like calligraphy, painting, or even somethin
 
 
 
-## Connect With Me:
+## To Connect With Me:
 
 - Gmail : amna.ali.23546@gmail.com
 - Outlook : aa09863@st.habib.edu.pk
